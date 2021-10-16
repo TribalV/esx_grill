@@ -9,7 +9,7 @@ Basically, you use the eye-target to interact with a grill and you can perform c
 <br>Initially this script was made for my FIVEM server, <b>Playfair Roleplay</b> but it has closed and I will be sharing some scripts.
 <br>
 <br>
-<b>PORTUGUESE</b>
+<b>VERSÃO EM PORTUGUÊS</b><br>
 Bem, este script funciona com todas as versões ESX tendo que fazer algumas alterações, por isso recomendo <b>ESX_FINAL</b> que funcionará perfeitamente. 
 <br>Basicamente, você usa o alvo visual para interagir com uma grelha e pode realizar certas ações.<br>
 Incialmente este script foi feito para o meu servidor de FIVEM, <b>Playfair Roleplay</b> porém este fechou e estarei compartilhando alguns scripts.
