@@ -18,9 +18,6 @@ Incialmente este script foi feito para o meu servidor de FIVEM, <b>Playfair Role
 <b>✎ NOTA</b>: Infelizmente não tenho uma imagem ou vídeo mostrando como funciona o script, talvez inclua no futuro.
 <br>
 <br>
-<br>
-<br>
-
 → <b>INSTALLATION / INSTALAÇÃO</b><br>
 
 Clone the repository/Clone o repositório
@@ -28,10 +25,12 @@ Clone the repository/Clone o repositório
 git clone https://github.com/TribalV/esx_grill.git esx_grill
 ```
 Add this in your server.cfg / Adicione isso em seu server.cfg:<br>
- ◌ ensure esx_grill<br><br>
+ ```ensure esx_grill```
+<br>
 <br>
 Good luck, if you have any doubts my discord is on <b>main.lua</b><br>
 Boa sorte, se tiver dúvidas o meu discord está no <b>main.lua</b>
+<br>
 <br>
 → <b>Dependencies/Depedências:</b><br><br>
   ◌ es_extended<br>
