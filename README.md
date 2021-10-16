@@ -25,7 +25,9 @@ Clone the repository/Clone o repositório
 git clone https://github.com/TribalV/esx_grill.git esx_grill
 ```
 Add this in your server.cfg / Adicione isso em seu server.cfg:<br>
- ```ensure esx_grill```
+ ```
+ ensure esx_grill
+ ```
 <br>
 <br>
 Good luck, if you have any doubts my discord is on <b>main.lua</b><br>
