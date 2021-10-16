@@ -1,5 +1,5 @@
 # ESX_GRILL - A simple grill script for FiveM
-A simple grill script / Um simples scritp de grelhar
+A simple grill script / Um simples script de grelhar
 <br>
 <hr>
 <br>
