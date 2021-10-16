@@ -18,3 +18,6 @@ Incialmente este script foi feito para o meu servidor de FIVEM, <b>Playfair Role
   ◌ es_extended<br>
   ◌ nh-context<br>
   ◌ bt-target
+
+<b>✎ NOTE</b>: Unfortunately I don't have an image or video showing how the script works, maybe add it in the future.
+<b>✎ NOTA</b>: Infelizmente não tenho uma imagem ou vídeo mostrando como funciona o script, talvez inclua no futuro.
