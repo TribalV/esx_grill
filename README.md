@@ -21,3 +21,4 @@ Incialmente este script foi feito para o meu servidor de FIVEM, <b>Playfair Role
   ◌ es_extended<br>
   ◌ nh-context<br>
   ◌ bt-target
+  ◌ taskbar
