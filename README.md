@@ -12,7 +12,7 @@ Basically, you use the eye-target to interact with a grill and you can perform c
 <br>
 → <b>VERSÃO EM PORTUGUÊS</b><br>
 Bem, este script funciona com todas as versões ESX tendo que fazer algumas alterações, por isso recomendo <b>ESX_FINAL</b> que funcionará perfeitamente. 
-Basicamente, usa-se o eye-target para interagir com uma grelha e pode realizar certas ações.<br>
+Basicamente, usa-se o eye-target para interagir com uma grelhador e realizar certas ações.<br>
 Incialmente este script foi feito para o meu servidor de FIVEM, <b>Playfair Roleplay</b> porém este fechou e estarei compartilhando alguns scripts.
 <br>
 <b>✎ NOTA</b>: Infelizmente não tenho uma imagem ou vídeo mostrando como funciona o script, talvez inclua no futuro.
