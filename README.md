@@ -16,8 +16,8 @@ Basicamente, você usa o alvo visual para interagir com uma grelha e pode realiz
 Incialmente este script foi feito para o meu servidor de FIVEM, <b>Playfair Roleplay</b> porém este fechou e estarei compartilhando alguns scripts.
 <br>
 <b>✎ NOTA</b>: Infelizmente não tenho uma imagem ou vídeo mostrando como funciona o script, talvez inclua no futuro.
-<br>
-→ <b>Dependencies/Depedências:<b><br>
+<br><br>
+→ <b>Dependencies/Depedências:</b><br><br>
   ◌ es_extended<br>
   ◌ nh-context<br>
   ◌ bt-target
