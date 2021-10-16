@@ -20,5 +20,5 @@ Incialmente este script foi feito para o meu servidor de FIVEM, <b>Playfair Role
 → <b>Dependencies/Depedências:</b><br><br>
   ◌ es_extended<br>
   ◌ nh-context<br>
-  ◌ bt-target
+  ◌ bt-target<br>
   ◌ taskbar
