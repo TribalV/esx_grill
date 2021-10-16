@@ -28,8 +28,8 @@ Add this in your server.cfg / Adicione isso em seu server.cfg:<br>
  ```ensure esx_grill```
 <br>
 <br>
-Good luck, if you have any doubts my discord is on <b>main.lua</b><br>
-Boa sorte, se tiver dúvidas o meu discord está no <b>main.lua</b>
+Good luck, if you have any doubts my discord is on <b>client.lua</b><br>
+Boa sorte, se tiver dúvidas o meu discord está no <b>client.lua</b>
 <br>
 <br>
 → <b>Dependencies/Depedências:</b><br><br>
