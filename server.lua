@@ -28,7 +28,8 @@ RegisterServerEvent('salmao:darItem')
 AddEventHandler('salmao:darItem', function(item,count)
 	local xPlayer  = ESX.GetPlayerFromId(source)
 	local itemQuantity = xPlayer.getInventoryItem('salmao').count
-	if itemQuantity <1 then
+	quantity = tonumber(itemQuantity)
+	if quantity <1 then
 				TriggerClientEvent('esx:showNotification', source, "Não tens salmão suficiente")
 				return
 			else
